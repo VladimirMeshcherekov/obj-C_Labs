@@ -1,0 +1,6 @@
+E:\Labs\C#\obj-c\lab3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Labs\C#\obj-c\lab3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Labs\C#\obj-c\lab3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+E:\Labs\C#\obj-c\lab3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+E:\Labs\C#\obj-c\lab3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Labs\C#\obj-c\lab3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
